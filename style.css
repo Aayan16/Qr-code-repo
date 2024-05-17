@@ -5,6 +5,7 @@
 }
 
 .main{
+    font-family: "Outfit", sans-serif
     height: 100vh;
     max-width: 100%;
     display: flex;
